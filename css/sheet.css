@@ -1,0 +1,23 @@
+.bio{
+    margin: 10px 0;
+    color: #0bceaf;
+  font-size: 1rem;
+text-align: left;
+}
+
+.bio span{
+    padding-left:10px;
+}
+ .hr_class{
+    height: 13px;
+}
+
+
+
+.change_color span{
+    color: #0bceaf;
+}
+
+.upper_space{
+    padding-top: 35px;
+}
