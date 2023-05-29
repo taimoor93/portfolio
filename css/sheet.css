@@ -21,3 +21,38 @@ text-align: left;
 .upper_space{
     padding-top: 35px;
 }
+
+
+
+.footers {
+    
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .footers .social-icons {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+  .footers .social-icons li {
+    margin-right: 10px;
+    color: white;
+  }
+
+  .footers .social-icons li:last-child {
+    margin-right: 0;
+  }
+
+  .footers .social-icons a {
+    color: white;
+    font-size: 20px;
+    transition: color 0.3s;
+  }
+
+  .footers .social-icons a:hover {
+    color: #0bceaf;
+  }
