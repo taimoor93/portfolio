@@ -1324,6 +1324,10 @@ body {
   .mh-experince .mh-education-deatils .mh-education-item .mh-eduyear {
     margin: 10px 0;
     color: #0bceaf; }
+    .mh-eduyear p{
+      margin: 10px 0;
+    color: #0bceaf; 
+    }
   .mh-experince .mh-education-deatils .mh-education-item p {
     font-size: 1rem;
     line-height: 23px;
